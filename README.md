@@ -35,7 +35,7 @@ A Node.js application that tracks and displays real-time data for the game "Grow
 ### Installation
 
 1.  **Save the code:**
-    Save the provided Python code as a `.js` file (e.g., `server.js`) in a new project directory.
+    Save the provided Python code as a `.js` file (e.g., `app.js`) in a new project directory.
 
 2.  **Initialize your project (optional but recommended):**
     Open your terminal in the project directory and run:
