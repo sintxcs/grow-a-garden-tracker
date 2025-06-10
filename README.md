@@ -67,7 +67,7 @@ A Node.js application that tracks and displays real-time data for the game "Grow
 
 ### Configuration
 
-*   **Port:** The server runs on port `3000` by default. You can change this by setting the `PORT` environment variable before running the script (e.g., `PORT=8080 node server.js`).
+*   **Port:** The server runs on port `3000` by default. You can change this by setting the `PORT` environment variable before running the script (e.g., `PORT=8080 node app.js`).
 *   **Stock Update Interval:** The assumed interval for GAG stock updates is set to `1` minute (`STOCK_UPDATE_INTERVAL_MINUTES`). This is used to calculate the next *potential* refresh time for display and page auto-refresh. This can be changed directly in the code.
 
 ## API Endpoints
